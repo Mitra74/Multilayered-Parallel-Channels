@@ -46,13 +46,16 @@ src/
 Key parameters (layer thicknesses, diffusion coefficients, transmitter/observation positions, frequency and Hankel-transform discretization) can be set at the top of `bounded_three_layer_molecular_diffusion_channel.m`.
 
 ## Citation
-
 ```bibtex
 @inproceedings{rezaei2026multilayer,
-  title={Molecular Communication in Multi-layered Parallel Channels with an Ocean Surface Case Study},
-  author={Rezaei, Mitra and Fitzgerald, J. G. and Wheeler, J. D. and Chappell, M. J. and Noel, A.},
-  booktitle={Proc. IEEE International Conference on Communications (ICC)},
-  year={2026}
+  author={Rezaei, Mitra and Fitzgerald, J. G. and Wheeler, J. D. and Chappell, Michael J. and Noel, Adam},
+  booktitle={ICC 2026 - IEEE International Conference on Communications},
+  title={Molecular Communication in Multi-Layered Parallel Channels with an Ocean Surface Case Study},
+  year={2026},
+  pages={1--7},
+  address={Glasgow, United Kingdom},
+  doi={10.1109/ICC59461.2026.11587411},
+  keywords={Molecular Communication; Multi-layered Parallel Structures; Diffusion; Channel Model; Sea Surface Microlayer}
 }
 ```
 
